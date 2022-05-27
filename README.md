@@ -2,6 +2,8 @@
 Done as part of an object oriented programming course.
 User interface which converts images to ASCII Art.
 
+An example of a picture and the results of the convertor is in example.zip
+
 The basic functions in the interface are:
 
 A. Control the characters that make up the images - Add and remove characters from the repository.
@@ -15,3 +17,4 @@ D. Output Selection - If the product is printed to a console or alternatively re
 E. Create the image.
 
 F. Exit the interface when typing exit.
+
